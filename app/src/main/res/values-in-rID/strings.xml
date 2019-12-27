@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfilePage</string>
+    <string name="email">Email : dimasaff4@gmail.com</string>
+    <string name="call_number">No. Telp : +62-82 142 709 190</string>
+    <string name="alamat">Alamat : Jl. Simpang Kepuh A 16, Malang</string>
+    <string name="mood">Keadaan : Bahagia</string>
+    <string name="status">Ikuti Saya</string>
+</resources>
